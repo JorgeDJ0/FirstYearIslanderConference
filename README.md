@@ -1,1 +1,2 @@
 # FirstYearIslanderConference
+This project was apart of an assignment for the First-Year Capstone Project at TAMUCC as a way to simulate the senior capstone project. Majority of the coding was done by one of the group members, while I provided some edits in the code and worked on other coding related needs for the project. This project was made in early 2022 and isn't as efficent as we wanted to have made it due to time constraints.
